@@ -1,0 +1,7 @@
+Flask==2.3.3
+browser-use==0.1.5
+alibabacloud-bailian20230601==1.0.0
+alibabacloud-tea-openapi==0.3.7
+alibabacloud-tea-util==0.3.14
+playwright==1.39.0
+    
